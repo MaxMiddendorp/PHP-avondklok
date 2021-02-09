@@ -24,7 +24,7 @@ Any SMTP mail can be used
 The PDF will be sent to the email that the user registered with
 
 <h3>Output</h3>
-When the file get generated it will be saved on the server and currently will not be deleted
+When the file get generated it will be saved on the server and currently will not be deleted automatically
 
 The file can be downloaded or emailed to the user
 
